@@ -1,0 +1,10 @@
+# Config local de herramientas
+.claude/
+
+# Netlify
+.netlify/
+
+# Basura del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
